@@ -3,7 +3,7 @@ This project presents a method for creating a diversified investment portfolio u
   
 Data Source:  
 (1) 200+ Financial Indicators of US stocks
-This is a compilation of US stock/share financial indicators for the five-year period of 2014–2018. The datasets record over 200 financial indicators, including but not limited to asset turnover, return on equity, P/E ratio, sector, and price variance. The data is downloaded from the URL: https://www.kaggle.com/datasets/cnic92/200-financial-indicators-of-us-stocks-20142018?resource=download (accessed date: January 2023).
+This is a compilation of US stock/share financial indicators for the five years of 2014–2018. The datasets record over 200 financial indicators, including but not limited to asset turnover, return on equity, P/E ratio, sector, and price variance. The data is downloaded from the URL: https://www.kaggle.com/datasets/cnic92/200-financial-indicators-of-us-stocks-20142018?resource=download (accessed date: January 2023).
 (2) S&P 500 Companies with Financial Information
 This dataset includes the top 500 publicly traded US stocks counted by market cap, published by Standard and Poor’s website. The index is calculated based on the market capitalization of the companies included in it, and weighted by the total market value of each company's outstanding shares. The data is downloaded from the URL: https://datahub.io/core/s-and-p-500-companies#resource-constituents Top500 (accessed date: January 2023).
 
