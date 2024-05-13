@@ -7,6 +7,7 @@ This is a compilation of US stock/share financial indicators for the five years 
 (2) S&P 500 Companies with Financial Information
 This dataset includes the top 500 publicly traded US stocks counted by market cap, published by Standard and Poor’s website. The index is calculated based on the market capitalization of the companies included in it, and weighted by the total market value of each company's outstanding shares. The data is downloaded from the URL: https://datahub.io/core/s-and-p-500-companies#resource-constituents Top500 (accessed date: January 2023).
 
+
 <img width="341" alt="image" src="https://github.com/nighttttrain/StocksInvestmenPortfoliost-Clustering-R/assets/127153246/ea8301f3-4487-433d-a689-e2fd25dda1b8">  
 
 Figure 1: Number of Sticks in S&P 500 by Sectors
